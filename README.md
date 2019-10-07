@@ -1,4 +1,4 @@
-# Very Simple JavaScript HTML5 Prototype Canvas Game
+# Very Simple JavaScript HTML5 Canvas Prototype Game
 
 This is a simple plain JavaScript HTML5 Canvas game.
 
