@@ -81,7 +81,7 @@ function drawScoreboard() {
 
 function jump() {
     if(playerY > 240) {
-    playerY = playerY - 50;
+    playerY = playerY - v
     }
 }
 
@@ -128,7 +128,7 @@ function gameloop() {
     }                //
 
     
-    // Increasing the score if by one if one obstacle is jumped.
+    // Increasing the score by one if one obstacle is jumped.
 
     if(playerX==xr1 || playerX==xr2 || playerX==xr3) {
         score++;
