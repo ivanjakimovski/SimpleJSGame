@@ -81,7 +81,7 @@ function drawScoreboard() {
 
 function jump() {
     if(playerY > 240) {
-    playerY = playerY - v
+    playerY = playerY - 50
     }
 }
 
